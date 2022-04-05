@@ -6,7 +6,7 @@
 - 그래프 데이터베이스를 활용하여 많은 트랜잭션 수를 가지는 지갑을 효율적으로 검색할 수 있다.
 <br>
 
-<p align="center"> <img src="https://i.esdrop.com/d/f/stu7PPILpD/0Lk5LpSaf1.png" width="40%" align="center"> </p>
+<p align="center"> <img src="https://i.esdrop.com/d/f/stu7PPILpD/0Lk5LpSaf1.png" width="60%" align="center"> </p>
 <p align="center">  <b> 그림 1. </b> 블록체인 트랜잭션 데이터 그래프 모델링. </p>
 
 <br>
